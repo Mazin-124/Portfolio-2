@@ -1,0 +1,26 @@
+h1{
+    color: rgb(9, 31, 155);
+}
+/*{
+    border:solid;
+    border-color: springgreen;
+}*/
+
+.header{
+    background-color: rgb(238, 232, 243);    
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
